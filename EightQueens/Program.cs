@@ -14,7 +14,7 @@ void Init()
     {
         for (var y = 0; y < length; y++)
         {
-            table[x, y] = ".";
+            table[x, y] = "."; //MASTER
         }
     }
 }
